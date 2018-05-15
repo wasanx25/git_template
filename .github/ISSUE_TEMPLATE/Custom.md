@@ -1,13 +1,13 @@
 ---
-name: new_feature
-about: new_feature
+name: misc_suggestion
+about: misc_suggestion
 
 ---
 
-# 機能概要
-
-何を何のために実現するのか
+# 概要
+                               
+自由記述!!!
 
 # 参考
 
-関連する Issue や、参考リンク、参考資料、キャプチャなどがある場合は、添付する
+関連する参考リンク、参考資料、キャプチャなどがある場合は、添付する
