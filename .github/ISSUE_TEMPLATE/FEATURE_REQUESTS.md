@@ -1,12 +1,11 @@
 ---
 name: new_feature
 about: new_feature
-
 ---
 
 # 機能概要
-                               
-何を何のために実現するのか     
+
+何を何のために実現するのか
 
 # 参考
 

@@ -1,7 +1,6 @@
 ---
 name: bug_report
 about: bug_report
-
 ---
 
 # 概要
